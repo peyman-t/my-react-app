@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Hello, Class! I am a React app running on Azure. I was deployed using a very complex pipeline!!
         </p>
         <a
           className="App-link"
