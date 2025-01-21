@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hello, Class! I am a React app running on Azure. I was deployed using a very complex pipeline!!
+          Hello, Class (changed)! I am a React app running on Azure. I was deployed using a very complex pipeline!!
         </p>
         <a
           className="App-link"
